@@ -8,12 +8,6 @@ fun main(args: Array<String>) {
         taskNumber = readln().toInt()
     }
 
-
-
-
-
-
-
     when (taskNumber) {
         1 -> {
             val firstTask = FirstTask()
